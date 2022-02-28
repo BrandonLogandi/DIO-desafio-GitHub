@@ -5,6 +5,6 @@ Por exemplo, esta linha foi adicionada usando o VSCode e empurrada pro GitHub.
 
 ## Links úteis
 
-[Git](gitforwindows.org) - Download do Git para Windows  
+[Git](https://gitforwindows.org) - Download do Git para Windows  
 [Dillinger](https://dillinger.io/) - Editor Markdown Online  
-[Markdown Guide](markdownguide.org) - Guia sobre Markdown
+[Markdown Guide](https://markdownguide.org) - Guia sobre Markdown
